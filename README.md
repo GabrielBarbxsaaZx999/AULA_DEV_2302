@@ -1,7 +1,7 @@
 # AULA_DEV_2302
 
 Repositório - Curso de Desenvolvimento de Sistemas SENAI/SESI Sumaré 
-![This is an image](https://www.billboard.com/wp-content/uploads/media/chief-keef-650-430-a.jpg?w=650)]
-´#RRGGBB` `#0969DA`
+![This is an image](https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2023/02/932/524/Jordan-Carter.jpg?ve=1&tl=1)]
+´#RRGGBB` 
 
 
